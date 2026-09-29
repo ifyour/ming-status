@@ -4,9 +4,9 @@
     "url": "https://vless.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
-    "status": "up",
-    "uptime": "95.67%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.69%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
@@ -22,7 +22,8 @@
       "2026-08-24": 492,
       "2026-08-26": 907,
       "2026-08-27": 804,
-      "2026-08-28": 229
+      "2026-08-28": 229,
+      "2026-09-29": 0
     }
   },
   {
@@ -31,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "63.53%",
+    "uptime": "63.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.83%",
+    "uptimeYear": "35.01%",
     "time": 176,
     "timeDay": 171,
     "timeWeek": 200,
-    "timeMonth": 226,
+    "timeMonth": 227,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
